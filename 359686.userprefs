@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CheckAl.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CheckAl.cs" Line="20" Column="3" />
+      <File FileName="Assets\Scripts\PlayerBEhaviour.cs" Line="54" Column="21" />
+      <File FileName="Assets\Scripts\Coins.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Bat_up_down.cs" Line="1" Column="1" />
+      <File FileName="..\..\Documents\test\Assets\NewBehaviourScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\bat_script.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
