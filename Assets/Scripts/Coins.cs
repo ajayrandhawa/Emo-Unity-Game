@@ -10,23 +10,26 @@ public class Coins : MonoBehaviour {
 	int coin = 0;
 
 	void Awake () {
-		myscore = GameObject.Find("Score_Text").GetComponent<Text> ();
+		myscore = GameObject.Find("Scoretext").GetComponent<Text> ();
 
 		if (instance == null)
 			instance = this;
 	}
-	
-	public void SetScore(){
-		coin++;
-		myscore.text = "" + coin;
 
-	}
 
 	void OnTriggerEnter2D(Collider2D collider2d){
-		if (collider2d.tag == "coin") {
-			SetScore ();
+			if (collider2d.tag == "coins") {
+			this.SetScore ();
 			Destroy (collider2d.gameObject);	
 		}
 	}
+
+	
+	public void SetScore(){
+		this.coin++;
+		myscore.text = "" + coin;
+		
+	}
+
 	}
 

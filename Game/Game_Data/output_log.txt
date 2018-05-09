@@ -1,0 +1,121 @@
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940MX (ID=0x179c)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+Default GameObject Tag: Player already registered
+ 
+(Filename:  Line: 88)
+
+Default GameObject Tag: GameController already registered
+ 
+(Filename:  Line: 88)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\CyberBlack\Desktop\359686\Game\Game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\CyberBlack\Desktop\359686\Game\Game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\CyberBlack\Desktop\359686\Game\Game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\CyberBlack\Desktop\359686\Game\Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\CyberBlack\Desktop\359686\Game\Game_Data\Managed\UnityEngine.Advertisements.dll (this message is harmless)
+Loading C:\Users\CyberBlack\Desktop\359686\Game\Game_Data\Managed\UnityEngine.Advertisements.dll into Unity Child Domain
+Platform assembly: C:\Users\CyberBlack\Desktop\359686\Game\Game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\CyberBlack\Desktop\359686\Game\Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\CyberBlack\Desktop\359686\Game\Game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\CyberBlack\Desktop\359686\Game\Game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\CyberBlack\Desktop\359686\Game\Game_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\CyberBlack\Desktop\359686\Game\Game_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\CyberBlack\Desktop\359686\Game\Game_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.097 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+Platform assembly: C:\Users\CyberBlack\Desktop\359686\Game\Game_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 24a0 -> priority: 1 
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.991006 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1188.
+Total: 0.413815 ms (FindLiveObjects: 0.063228 ms CreateObjectMapping: 0.038554 ms MarkObjects: 0.297124 ms  DeleteObjects: 0.013879 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.025575 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1188.
+Total: 0.397365 ms (FindLiveObjects: 0.066313 ms CreateObjectMapping: 0.028273 ms MarkObjects: 0.288385 ms  DeleteObjects: 0.013365 ms)
+
