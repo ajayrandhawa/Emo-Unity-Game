@@ -3,7 +3,7 @@ Emo Unity game based on basic Arcade/Adventure. Game developed in Unity Game Eng
 
 #Game View
 
-!<img src="Screenshot.gif />
+<img src="Screenshot.gif />
 
 
 
